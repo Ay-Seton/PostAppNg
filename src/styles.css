@@ -1,1 +1,6 @@
-/* You can add global styles to this file, and also import other style files */
+@import "../../angular-reddit/node_modules/semantic-ui/dist/semantic.min.css";
+
+.votes{
+  background-color: grey;
+  border-radius:4px;
+}
